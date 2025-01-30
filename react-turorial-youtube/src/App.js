@@ -15,6 +15,6 @@ function App() {
     <div>残りのタスク:0</div>
   </>
   );
-}
+};
 
 export default App;
