@@ -1,5 +1,6 @@
 import { useState, useRef } from "react";
 import TodoList from "./TodoList";
+import Todo from "./Todo";
 import { v4 as uuidv4 } from "uuid";
 
 function App() {
